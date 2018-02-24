@@ -5,7 +5,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH A",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH A2017"
+      "title": "(L) GOL DARAH A 2017"
     },
     "series": [
       {
@@ -28,7 +28,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH A",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH A 2017"
+      "title": "(L) GOL DARAH A 2017"
     },
     "series": [
       {
@@ -51,7 +51,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH B",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH B 2017"
+      "title": "(L) GOL DARAH B 2017"
     },
     "series": [
       {
@@ -74,7 +74,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH B",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH B 2017"
+      "title": "(P) GOL DARAH B 2017"
     },
     "series": [
       {
@@ -97,7 +97,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH AB",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH AB 2017"
+      "title": "(L) GOL DARAH AB 2017"
     },
     "series": [
       {
@@ -120,7 +120,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH AB",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH AB 2017"
+      "title": "(P) GOL DARAH AB 2017"
     },
     "series": [
       {
@@ -143,7 +143,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH O",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH O 2017"
+      "title": "(L) GOL DARAH O 2017"
     },
     "series": [
       {
@@ -166,7 +166,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH O",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH O 2017"
+      "title": "(P) GOL DARAH O 2017"
     },
     "series": [
       {
@@ -189,7 +189,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH A+",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH A+ 2017"
+      "title": "(L) GOL DARAH A+ 2017"
     },
     "series": [
       {
@@ -212,7 +212,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH A+",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH A+ 2017"
+      "title": "(P) GOL DARAH A+ 2017"
     },
     "series": [
       {
@@ -235,7 +235,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH A-",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH A- 2017"
+      "title": "(L) GOL DARAH A- 2017"
     },
     "series": [
       {
@@ -258,7 +258,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH A-",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH A- 2017"
+      "title": "(P) GOL DARAH A- 2017"
     },
     "series": [
       {
@@ -281,7 +281,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH B+",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH B+ 2017"
+      "title": "(L) GOL DARAH B+ 2017"
     },
     "series": [
       {
@@ -304,7 +304,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH B+",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH B+ 2017"
+      "title": "(P) GOL DARAH B+ 2017"
     },
     "series": [
       {
@@ -327,7 +327,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH B-",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH B- 2017"
+      "title": "(L) GOL DARAH B- 2017"
     },
     "series": [
       {
@@ -350,7 +350,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH B-",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH B- 2017"
+      "title": "(P) GOL DARAH B- 2017"
     },
     "series": [
       {
@@ -373,7 +373,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH AB+",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH AB+ 2017"
+      "title": "(L) GOL DARAH AB+ 2017"
     },
     "series": [
       {
@@ -396,7 +396,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH AB+",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH AB+ 2017"
+      "title": "(P) GOL DARAH AB+ 2017"
     },
     "series": [
       {
@@ -419,7 +419,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH AB-",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH AB- 2017"
+      "title": "(L) GOL DARAH AB- 2017"
     },
     "series": [
       {
@@ -442,7 +442,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH AB-",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH AB- 2017"
+      "title": "(P) GOL DARAH AB- 2017"
     },
     "series": [
       {
@@ -465,7 +465,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH O+",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH O+ 2017"
+      "title": "(L) GOL DARAH O+ 2017"
     },
     "series": [
       {
@@ -488,7 +488,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH O+",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH O+ 2017"
+      "title": "(P) GOL DARAH O+ 2017"
     },
     "series": [
       {
@@ -511,7 +511,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) GOL DARAH O-",
       "yyyy": "2017",
-      "index": "(L) GOL DARAH O- 2017"
+      "title": "(L) GOL DARAH O- 2017"
     },
     "series": [
       {
@@ -534,7 +534,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) GOL DARAH O-",
       "yyyy": "2017",
-      "index": "(P) GOL DARAH O- 2017"
+      "title": "(P) GOL DARAH O- 2017"
     },
     "series": [
       {
@@ -557,7 +557,7 @@
       "region": "Kabupaten/Kota",
       "name": "(L) TIDAK TAHU GOL DARAH",
       "yyyy": "2017",
-      "index": "(L) TIDAK TAHU GOL DARAH 2017"
+      "title": "(L) TIDAK TAHU GOL DARAH 2017"
     },
     "series": [
       {
@@ -580,7 +580,7 @@
       "region": "Kabupaten/Kota",
       "name": "(P) TIDAK TAHU GOL DARAH",
       "yyyy": "2017",
-      "index": "(P) TIDAK TAHU GOL DARAH 2017"
+      "title": "(P) TIDAK TAHU GOL DARAH 2017"
     },
     "series": [
       {
