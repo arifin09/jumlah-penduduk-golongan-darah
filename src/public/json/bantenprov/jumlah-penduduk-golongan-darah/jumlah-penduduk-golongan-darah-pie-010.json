@@ -5,7 +5,7 @@
       "region": "Kabupaten",
       "name": "Pandeglang",
       "yyyy": "2017",
-      "index": "Pandeglang-2017"
+      "title": "Pandeglang 2017"
     },
     "series": [
       {
@@ -18,7 +18,7 @@
           {"value":1902,"name":"(P) GOL DARAH AB"},
           {"value":5500,"name":"(L) GOL DARAH O"},
           {"value":4391,"name":"(P) GOL DARAH O"},
-          {"value":2761,"name":"(L) GOL DARAH A+"},	
+          {"value":2761,"name":"(L) GOL DARAH A+"}, 
           {"value":2704,"name":"(P) GOL DARAH A+"},
           {"value":39,"name":"(L) GOL DARAH A-"},
           {"value":40,"name":"(P) GOL DARAH A-"},
@@ -46,7 +46,7 @@
       "region": "Kabupaten",
       "name": "Lebak",
       "yyyy": "2017",
-      "index": "Lebak-2017"
+      "title": "Lebak 2017"
     },
     "series": [
       {
@@ -63,10 +63,10 @@
           {"value":116,"name":"(P) GOL DARAH A+"},
           {"value":14,"name":"(L) GOL DARAH A-"},
           {"value":13,"name":"(P) GOL DARAH A-"},
-          {"value":82,"name":"(L) GOL DARAH B+"},	
-          {"value":86,"name":"(P) GOL DARAH B+"},	
+          {"value":82,"name":"(L) GOL DARAH B+"}, 
+          {"value":86,"name":"(P) GOL DARAH B+"}, 
           {"value":12,"name":"(L) GOL DARAH B-"},
-          {"value":10,"name":"(P) GOL DARAH B-"},	
+          {"value":10,"name":"(P) GOL DARAH B-"}, 
           {"value":34,"name":"(L) GOL DARAH AB+"},
           {"value":50,"name":"(P) GOL DARAH AB+"},
           {"value":115,"name":"(L) GOL DARAH AB-"},
@@ -75,7 +75,7 @@
           {"value":336,"name":"(P) GOL DARAH O+"},
           {"value":2832,"name":"(L) GOL DARAH O-"},
           {"value":2920,"name":"(P) GOL DARAH O-"},
-          {"value":617975,"name":"(L) TIDAK TAHU GOL DARAH"},	
+          {"value":617975,"name":"(L) TIDAK TAHU GOL DARAH"}, 
           {"value":581637,"name":"(P) TIDAK TAHU GOL DARAH"}
         ]
       }
@@ -87,7 +87,7 @@
       "region": "Kabupaten",
       "name": "Tangerang",
       "yyyy": "2017",
-      "index": "Tangerang-2017"
+      "title": "Tangerang 2017"
     },
     "series": [
       {
@@ -128,7 +128,7 @@
       "region": "Kabupaten",
       "name": "Serang",
       "yyyy": "2017",
-      "index": "Serang-2017"
+      "title": "Serang 2017"
     },
     "series": [
       {
@@ -169,7 +169,7 @@
       "region": "Kota",
       "name": "Kota Tangerang",
       "yyyy": "2017",
-      "index": "Kota-Tangerang-2017"
+      "title": "Kota Tangerang 2017"
     },
     "series": [
       {
@@ -210,7 +210,7 @@
       "region": "Kota",
       "name": "Kota Cilegon",
       "yyyy": "2017",
-      "index": "Kota-Cilegon-2017"
+      "title": "Kota Cilegon 2017"
     },
     "series": [
       {
@@ -251,7 +251,7 @@
       "region": "Kota",
       "name": "Kota Serang",
       "yyyy": "2017",
-      "index": "Kota-Serang-2017"
+      "title": "Kota Serang 2017"
     },
     "series": [
       {
@@ -292,7 +292,7 @@
       "region": "Kota",
       "name": "Kota Tangerang Selatan",
       "yyyy": "2017",
-      "index": "Kota-Tangerang-Selatan-2017"
+      "title": "Kota Tangerang Selatan-2017"
     },
     "series": [
       {
